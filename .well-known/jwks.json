@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "epic-key-1",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "YOUR_MODULUS",
+      "e": "AQAB"
+    }
+  ]
+}
