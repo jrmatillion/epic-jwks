@@ -5,13 +5,13 @@
       "kid": "my-key-123",
       "use": "sig",
       "alg": "RS384",
-      "n": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxvqID7Q7/qmKcdc+WGVi
-jsqIp66U235ySpWzDF/KkWruqooZtDZ4G3QPEp1HGu2FvbZJZQ0K4/sZ0Cuk2oFy
-61HR6Sg3ahOZ5WsJxspX+AkkZHoudb3evt1aqwn2lpCA6zgaYYv+oIkWz2BlCssR
-H0KKpCmgdLCmL1GV8tcDPGsuXKFT9KwLGQOWkFc9xAkVJsuSObpewqBAEwTJcPnR
-/Br3tkQWNKSI3CGkZGfPGDQS+u1o2ODmq3x/m3qory4psImId2yZCBzww9qcmIbY
-lP5MTMNeYQ9ozgxLlP+YV2cHtQS1ODYTpdLjAzuPQkm3SqIgmdJYLSonG+XrLv2u
-MQIDAQAB",
+      "n": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3ZuOAhvlam4UPvDZ9QaZ
+08VEY2ebv6oRZIgSq4fsOjXHAx1qeDjIcmTg50zwN24o1XE7TQbPoaOjJEoSnigd
+n9DVrl7ZTPDtdR8mSJ19UdkQw+o1PMxsyUVkgVxE5JFW7yp9N+VfHRT6ku1CvNs4
+xj679OR3o7Z/9oGax/HbUofjDThyNAYupBPB02cduiHFsMeaq+QHCjIuxRXscxuV
+/AHBEJs5Vvsr4BI2+26ZeFfCG12nTRrOO92rs8fLLD3N/xoqqBe5CC/37DIrazCq
+vaCLMwq3mkTWjs9hNtjAmrB3zV84If6fZkuDvpjyYFb6eDjyz2A3kXmz2pa3ke9g
+ywIDAQAB",
       "e": "AQAB"
     }
   ]
