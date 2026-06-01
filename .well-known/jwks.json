@@ -2,7 +2,7 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "epic-key-1",
+      "kid": "my-key-123",
       "use": "sig",
       "alg": "RS384",
       "n": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxvqID7Q7/qmKcdc+WGVi
