@@ -1,11 +1,11 @@
 {
   "keys": [
     {
-      "alg": "RS384",
+      "alg": "RS256",
       "e": "AQAB",
       "kid": "my-key-123",
       "kty": "RSA",
-      "n": "l8TUvmZccp8sjJIoYLMbrLV9HKbrXhYIMD4Xv4VPm8cTD7jyt3QCMr14xT6JXu80k8VJu4mn1HnxVbHq4fsd5CS3g3yWCkLekCpq_HUZhzwEKNn7lWTU0xfwYh6OCY548QiszI_zS0dZSb-Af2egbP4IlhcuKUz7r02rnpWF5TxEiOv7TKSrOuDP4kT1YMUgxEfCjuq033GQx5bfIGSixmonctRdmC3ncjObxKpuuzXu17IDsxK7Aup0IjA_9coDqZJUPJ8Fgip3J89jrdlai_C55nr8YTTnTEa2T6RPkDGGJOkGm5M738rheCy3ZG5lMiJ-pW68k4ktyT0BXl4gsw",
+      "n": "pqR86_1jVQoDSJpaSVWHSU3gpndikdKS8HGGjcYrTIeb9KZnnEFtegEhehOy-osr-iPShE8C9gf2k66kk6FoJVftAN5J4JTlnrryv1BzIiQd_aVz6hev725cHWnXNagClBiwYpmyD4tvvQzKo5X3d_III4ZYUDN5nlyGS_4cfkcHv2EzWSOrpr-TGy7JESluL65iqkRG3_-Qqz7-uFF2TOPGmN20uRrq9iPS9Usj9ijtpdG3lXCemPuZkNanTMSbxlfRxvB_xyehORlb3eAH9SiJFQIZjzRbj1fqYu7ci4PxK2f6zN3GdzNw3bx7_6o5c3M6VBYK6UC4gYkAmnMc5Q",
       "use": "sig"
     }
   ]
