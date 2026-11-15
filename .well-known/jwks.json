@@ -1,12 +1,12 @@
 {
   "keys": [
     {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "my-key-123",
       "kty": "RSA",
-      "use": "sig",
-      "alg": "RS384",
-      "kid": "claims-ai-0bdf223e0476",
-      "n": "j4WerbYivv1dWQMxJg6oIHYWzYCoJhBu71pS5lJszGKi5_xN1wfIccTZADj6gP4p3o94cy07t1HRnLpIdqUdbLNg4B7riI0JyIiB32F4D7rla-hYdAim-0jnRF9uplM3CIpDFXaD8vsMchHWcAsQ0s4YgvEDj_PzP6yMb3615tkW50q83gT_pWbL5R8OjGD0UzGPxaSQhHYxaNTB4aNAnsDFT0qdPfsr1oKJlS_KIqDzY2YXgGhpuSZA40YgDPHA1QrSOvJklFOKeB5I78tcUakAzm9tVz2ocRNdzcKByPt2WxP5gdo8MTJQb7-omJR8yC-PaPn9JxtBeAIVpJ0anQ",
-      "e": "AQAB"
+      "n": "uUs9GmtMSslvJDgs555Kho-f7WB7XNODq4mk1IkZchXBF14UR-nsCSauV18yBVYHUGoJc0l_OvaqUJi57oAOifNc-wc9UXAX-jn_cfzNt3Xv4H04y_CU0x1q0DcvrBBo5J1NFXQCVBXBw_YLHGVH-rxuZ4eo91ialGl5V82UoRp8icElLkwup2k6NiCtTJ37Y7A5yRU0tTK2Rpue71ULCsOUgC9S1zDLDDReHAu1ApulAvd9R5KYLbxLp43zeY1BLcP7gkL0uRrI_fkbV6D1OkCV0K24-NB3fQjYQAhePERKUFbCTi-aPogdsUhkAepnDALiKSbRfQsVpGq2rFA3kQ",
+      "use": "sig"
     }
   ]
 }
